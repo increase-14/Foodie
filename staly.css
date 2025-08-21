@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.b {
+  background-color: white;
+  color: #fe724c;
+  width: 138px;
+  height: 52px;
+  top: 55px;
+  left: 1262px;
+  border-radius: 100px;
+  border-color: white;
+}
+.div-2{
+display: flex;
+gap: 50px;
+align-items: center;
+}
+.t1{
+font-family: Montserrat;
+font-weight: 700;
+font-size: 46px;
+line-height: 54px;
+letter-spacing: 0%;
+width: 600px;
+}
+.p1{
+font-family: Roboto;
+font-weight: 400;
+font-size: 17px;
+line-height: 23px;
+letter-spacing: 0%;
+width: 600px;
+}
+.hero{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.i1{
+    width: 500px;
+}
+.b1{
+width: 174px;
+height: 55px;
+top: 555px;
+left: 241px;
+opacity: 1;
+border-radius: 100px;
+background-color: #FE724C;
+color: white;
+border-color: white;
+}
+.b2{
+    width: 174px;
+    height: 55px;
+    top: 555px;
+    left: 241px;
+    opacity: 1;
+    border-radius: 100px;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    }
+.body-1{
+    background-image: url(./images/image\ 2.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.div-3{
+    width: 600px;
+}
+.t2{
+font-family: Montserrat;
+font-weight: 700;
+font-size: 40px;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: center;
+color: #000000;
+}
+.p2{
+font-family: Roboto;
+font-weight: 700;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 0%;
+color: #000000;
+width: 600px;
+}
+.p3{
+font-family: Roboto;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 0%;
+color: #666666;
+width: 600px;
+}
+.divv{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
